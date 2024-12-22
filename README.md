@@ -1,5 +1,5 @@
 
-# RedPitaya-Hello-World-FPGA
+## RedPitaya-Hello-World-FPGA
 
 Simple projects to re-program the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. Tested with Vivado v2019.1, see https://www.xilinx.com/support/download.html.
 
@@ -19,10 +19,10 @@ This repository includes 4 simple projects to re-program the FPGA of the RedPita
 
 - 4. ADC with nth threshold trigger
 
-## 1. Binary Counter Displayed on the LEDs
+### 1. Binary Counter Displayed on the LEDs
 
 
-### Usage
+#### Usage
 
 - Clone the repositiry
 
@@ -57,9 +57,9 @@ This repository includes 4 simple projects to re-program the FPGA of the RedPita
 
 - Reboot the RedPitaya board or *cat fpga_0.94.bit > /dev/xdevcfg* to reinstall the official bitstream on the Zynq FPGA.
 
-## 2. Trigger Counter Displayed on the LEDs
+### 2. Trigger Counter Displayed on the LEDs
 
-### Usage
+#### Usage
 
 - Clone the repositiry
 
@@ -111,9 +111,9 @@ You can add hysteresis to get more reliable trigger counts.
 
 - Reboot the RedPitaya board or *cat fpga_0.94.bit > /dev/xdevcfg* to reinstall the official bitstream on the Zynq FPGA.
 
-## 3. Arbitrary Signal on Channel 1 of Fast DAC
+### 3. Arbitrary Signal on Channel 1 of Fast DAC
 
-### Usage
+#### Usage
 
 - Clone the repositiry
 
@@ -153,9 +153,9 @@ You can add hysteresis to get more reliable trigger counts.
 
 - Reboot the RedPitaya board or *cat fpga_0.94.bit > /dev/xdevcfg* to reinstall the official bitstream on the Zynq FPGA.
 
-## 4. ADC with Nth Edge Trigger
+### 4. ADC with Nth Edge Trigger
 
-### Usage
+#### Usage
 
 - Clone the repositiry
 
