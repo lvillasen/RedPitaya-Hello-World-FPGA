@@ -174,6 +174,10 @@ You can add hysteresis to get more reliable trigger counts.
 
 - Reboot the RedPitaya board or *cat fpga_0.94.bit > /dev/xdevcfg* to reinstall the official bitstream on the Zynq FPGA.
 
-### Another application of this project to trigger the fast ADC on Nth-edge can be found here:
+#### Another application of this project to trigger the fast ADC on Nth-edge can be found here:
 
 - https://ciiec.buap.mx/RedPitaya-Nth-Edge-Trigger-App/
+
+#### and to measure the muon lifetime here:
+
+- https://github.com/lvillasen/RedPitaya-Muon-Decay
