@@ -1,7 +1,7 @@
 
 ## RedPitaya-Hello-World-FPGA
 
-Simple projects to re-program the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. Tested with Vivado v2019.1, see https://www.xilinx.com/support/download.html.
+Simple projects to re-program the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. You can use any version of Vivado, see https://www.xilinx.com/support/download.html.
 
 If you do not want to re-program the FPGA of the RedPitaya, you can use its official memory map with C code as shown here:
 
