@@ -6,7 +6,7 @@ Simple projects to re-program the FPGA of the RedPitaya board that illustrate th
 If you do not want to re-program the FPGA of the RedPitaya, you can use its standard memory map 
 
 - with C code as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-C/
-- or with Python code as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-Python/
+- or with Python scripts as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-Python/
 
 
 This repository includes 4 simple projects to re-program the FPGA of the RedPitaya board:
