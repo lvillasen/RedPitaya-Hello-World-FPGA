@@ -1,9 +1,9 @@
 
 ## RedPitaya-Hello-World-FPGA
 
-Simple projects to re-program the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. You can use any version of Vivado, see https://www.xilinx.com/support/download.html.
+Simple projects to reprogram the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. You can use any version of Vivado, see https://www.xilinx.com/support/download.html.
 
-If you do not want to re-program the FPGA of the RedPitaya, you can use its official memory map with C code as shown here:
+If you do not want to reprogram the FPGA of the RedPitaya, you can use its official memory map with C code as shown here:
 
 -  https://github.com/lvillasen/RedPitaya-Hello-World-C/
 
@@ -178,6 +178,6 @@ You can add hysteresis to get more reliable trigger counts.
 
 - https://ciiec.buap.mx/RedPitaya-Nth-Edge-Trigger-App/
 
-#### and to measure the muon lifetime here:
+#### and another project to reprogram the FPGA to measure the muon lifetime here:
 
 - https://github.com/lvillasen/RedPitaya-Muon-Decay
