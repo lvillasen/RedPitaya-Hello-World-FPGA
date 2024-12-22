@@ -1,10 +1,9 @@
-# RedPitaya Hello World without changing the FPGA 
 
-If you do not want to re-program the FPGA of the RedPitaya, you can use its standard memory map with C code as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-Software/
-
-# RedPitaya-Hello-World to program the FPGA
+# RedPitaya-Hello-World-FPGA
 
 Simple projects to re-program the FPGA of the RedPitaya board that illustrate the use of standard IPs from Vivado in combination with modules written in Verilog. Tested with Vivado v2019.1, see https://www.xilinx.com/support/download.html.
+
+If you do not want to re-program the FPGA of the RedPitaya, you can use its standard memory map with C code as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-C/ or with Python as shown here: https://github.com/lvillasen/RedPitaya-Hello-World-Python/
 
 
 It includes 4 simple projects:
