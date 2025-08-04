@@ -178,6 +178,10 @@ You can add hysteresis to get more reliable trigger counts.
 
 - https://ciiec.buap.mx/RedPitaya-Nth-Edge-Trigger-App/
 
-#### and another project to reprogram the FPGA to measure the muon lifetime here:
+#### another project to reprogram the FPGA to measure the lifetimes of decaying muons in a liquid-scintillation detector here:
 
-- https://github.com/lvillasen/RedPitaya-Muon-Decay
+- https://github.com/lvillasen/Muon-Decay
+
+  ### Live demo of muons decaying in real time 
+  
+- https://ciiec.buap.mx/Muon-Decay
