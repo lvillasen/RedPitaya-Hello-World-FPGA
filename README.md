@@ -182,6 +182,6 @@ You can add hysteresis to get more reliable trigger counts.
 
 - https://github.com/lvillasen/Muon-Decay
 
-  ### Live demo of muons decaying in real time 
+### Live demo of muons decaying in real time 
   
 - https://ciiec.buap.mx/Muon-Decay
